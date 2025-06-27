@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist  
+*📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 
-<!--
-**MkhithiAzureNet/Mkhithiazurenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠 Core Stack  
+- *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
+- *Networking:* Cisco CCNA, Azure VPN, NSGs  
+- *DevOps:* CI/CD Pipelines, Docker Basics  
 
-Here are some ideas to get you started:
+#### 📜 Certifications  
+- Microsoft Certified: Azure Fundementals (AZ-900)
+- Microsoft Certified: Azure Administrator (AZ-104)
+- Cisco Certified Network Associate (CCNA) 
+- CompTIA Network+ (CompTIA N+)
+- Cisco Networking Devices & Initial Configurations (Cisco Academy)
+- Cisco Cybersecurity (Cisco Academy)
+- Google Coursera Technical Fundementals (Coursera)
+- Google Coursera Command Line In Linux (Coursera)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💼 Experience Highlights  
+- *Freelance Cloud Consultant* (2021-Present)  
+  - Migrated 3 on-prem workloads to Azure  
+  - Automated VM scaling for SMB clients  
+- *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)  
+
+#### 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](Your_LinkedIn_URL)
+
