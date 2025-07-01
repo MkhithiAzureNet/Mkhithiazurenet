@@ -3,7 +3,7 @@
 
 #### 🛠 Core Stack  
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
-- *Networking:* Cisco CCNA, Azure VPN, NSGs  
+- *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
 - *DevOps:* CI/CD Pipelines, Docker Basics  
 
 #### 📜 Certifications  
