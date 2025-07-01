@@ -18,7 +18,7 @@
 
 
 #### 💼 Experience Highlights  
-- *Freelance Cloud Consultant* (2021-Present)  
+- *Freelance Cloud Consultant* (2022-Present)  
   - Migrated 3 on-prem workloads to Azure  
   - Automated VM scaling for SMB clients  
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)  
