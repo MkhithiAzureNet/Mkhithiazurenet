@@ -1,5 +1,6 @@
 ### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist  
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
+mkhithiazuresa@gmail.com | 0833717102
 
 #### 🛠 Core Stack  
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
@@ -7,7 +8,7 @@
 - *DevOps:* CI/CD Pipelines, Docker Basics  
 
 #### 📜 Certifications  
-- Microsoft Certified: Azure Fundementals (AZ-900)
+- Microsoft Certified: Azure Fundementals (AZ-900) 
 - Microsoft Certified: Azure Administrator (AZ-104)
 - Cisco Certified Network Associate (CCNA) 
 - CompTIA Network+ (CompTIA N+)
@@ -15,6 +16,13 @@
 - Cisco Cybersecurity (Cisco Academy)
 - Google Coursera Technical Fundementals (Coursera)
 - Google Coursera Command Line In Linux (Coursera)
+
+## 🛠️ Diagnostic Tools
+Developer of the following:
+- 🔍 CoolNet+ Pulse – Diagnoses intermittent connectivity issues at ISP scale
+- 📶 WiFi Nanny – Analyzes signal strength & device behaviors (in progress)
+- 📘 Field/Online Fixes Documentation – Real-world cases: [View Casebook](link-to-folder)
+
 
 
 #### 💼 Experience Highlights  
