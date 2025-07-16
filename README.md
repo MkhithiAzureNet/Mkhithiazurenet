@@ -21,7 +21,9 @@ mkhithiazuresa@gmail.com | 0833717102
 Developer of the following:
 - 🔍 CoolNet+ Pulse – Diagnoses intermittent connectivity issues at ISP scale
 - 📶 WiFi Nanny – Analyzes signal strength & device behaviors (in progress)
-- 📘 Field/Online Fixes Documentation – Real-world cases: [View Casebook](link-to-folder)
+- 📘 Field/Online Fixes Documentation – Real-world cases: [View Casebook](./casebook/field_fixes.md) 
+
+
 
 
 
