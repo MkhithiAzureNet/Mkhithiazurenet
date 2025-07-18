@@ -42,17 +42,17 @@ R1(config)# ip route 192.168.3.0 255.255.255.0 192.168.12.2
 R2(config)# ip route 192.168.1.0 255.255.255.0 192.168.12.1
 
 ### 📸 R1 Configuration of the Static Route 
-![R1 Static Route Config](images/R1_static_route_config.png)
-
+![R1 Static Route Config](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/R1_static_route_config.png)
+ 
 ### 📸 R2 Configuration of the Static Route  
-![R2 Static Route Config](images/R2_static_route_config.png)
+![R2 Static Route Config](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/R2_static_route_config.png)
 
 ### 📸 Ping Test – Before & After Static Route Fix  
-![Ping Test Results](images/Ping_test_fail_pass.png)
+![Ping Test Results](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/Ping_test_fail_pass.png)
 
 - Normalized subnet masks
 - Verified all interfaces up and correct
-- Rebooted PC1 & PC2 (flush ARP/DNS cache if needed) 
+- Rebooted PC1 & PC2 flush ARP/DNS cache if needed
 
 ✅ Outcome
 - Ping between PC1 and PC2 now succeeds
@@ -64,10 +64,10 @@ Below are visual and configuration artifacts supporting the static routing troub
 
 | Artifact 📸 | Description 🧾 | Link 🔗 |
 |------------|----------------|--------|
-| 🗺️ Topology Overview | Snapshot of full network layout | [images/Static_routes](images/Static_routes.png) |
-| 🧮 R1 Routing Config | Static route declaration to reach PC2 subnet | [images/R1_static_route_config](images/R1_static_route_config.png) |
-| 🧮 R2 Routing Config | Static route declaration to reach PC1 subnet | [images/R2_static_route_config](images/R2_static_route_config.png) |
-| 📊 Ping Results | ICMP test showing failure and success before/after route fix | [images/Ping_test_fail_pass](images/Ping_test_fail_pass.png) |
+| 🗺️ Topology Overview | Snapshot of full network layout | [images/Static_routes](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/Static_routes.png) |
+| 🧮 R1 Routing Config | Static route declaration to reach PC2 subnet | [images/R1_static_route_config](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/R1_static_route_config.png) |
+| 🧮 R2 Routing Config | Static route declaration to reach PC1 subnet | [images/R2_static_route_config](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/R2_static_route_config.png) |
+| 📊 Ping Results | ICMP test showing failure and success before/after route fix | [images/Ping_test_fail_pass](https://github.com/MkhithiAzureNet/Mkhithiazurenet/blob/main/casebook/images/Ping_test_fail_pass.png) |
 
 ---
 
