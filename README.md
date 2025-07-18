@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist  
+### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist | Diagnostic Architect
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0833717102
 
