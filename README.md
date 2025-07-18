@@ -6,7 +6,7 @@ mkhithiazuresa@gmail.com | 0833717102
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
 - *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
 - *DevOps:* CI/CD Pipelines, Docker Basics
-- Toolkit Developer 
+- Toolkit Architect
 
 #### 📜 Certifications  
 - Microsoft Certified: Azure Fundementals (AZ-900) 
