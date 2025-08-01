@@ -1,0 +1,19 @@
+# 📁 Case: MTU SweetSpot — Intermittent Drops Solved by 1400 MTU
+
+## 🧠 Scenario
+
+Client on Gigabit FTTH reports stable speedtest results (near line-rate), but experiences intermittent freezes during online gaming, video calls, and general browsing. No packet loss visible in short pings or speedtests. Issue persists across devices and operating systems.
+
+## 🔍 Root Cause Summary
+
+- Classic symptoms of upstream packet fragmentation
+- `ping -f -l 1436` command fails, confirming path MTU mismatch
+- Standard MTU setting (1500) exceeds the allowable size on the client's WAN path
+- Silent drop events never surface in basic diagnostic tools like speedtest or ICMP 32-byte tests
+
+## 🧪 Diagnostic Workflow
+
+Command used:
+
+```bash
+ping 8.8.8.8 -f -l 1436
