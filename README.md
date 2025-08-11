@@ -1,23 +1,19 @@
 ### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist | Diagnostic Architect
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
-mkhithiazuresa@gmail.com | 0833717102
+mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 
 #### 🛠 Core Stack  
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
 - *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
-- *DevOps:* CI/CD Pipelines, Docker Basics
 - Toolkit Architect
 
 #### 📜 Certifications  
-- Microsoft Certified: Azure Fundementals (AZ-900) 
-- Microsoft Certified: Azure Administrator (AZ-104)
-- Microsoft Certified: Azure DevOps (AZ-400)
-- Cisco Certified Network Associate (CCNA) 
 - CompTIA Network+ (CompTIA N+)
 - Cisco Networking Devices & Initial Configurations (Cisco Academy)
 - Cisco Cybersecurity (Cisco Academy)
 - Google Coursera Technical Fundementals (Coursera)
 - Google Coursera Command Line In Linux (Coursera)
+- Microsoft Certified: Azure Fundementals (AZ-900) To write 29-Aug-25
 
 ## 🛠️ Diagnostic Tools
 Developer of the following:
@@ -37,7 +33,3 @@ Developer of the following:
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)
 - Setup of a small office networks
 - Network Toolkit Architect 
-
-#### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](Your_LinkedIn_URL)
-
