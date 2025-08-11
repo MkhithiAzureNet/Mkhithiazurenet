@@ -31,5 +31,5 @@ Developer of the following:
   - Migrated 3 on-prem workloads to Azure  
   - Automated VM scaling for SMB clients  
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)
-- Setup of a small office networks
+- SOHO Network Setup with Redundancy & Security 
 - Network Toolkit Architect 
