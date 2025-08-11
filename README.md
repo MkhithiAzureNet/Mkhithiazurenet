@@ -32,7 +32,7 @@ Developer of the following:
   - Automated VM scaling for SMB clients  
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)
 - SOHO Network Setup with Redundancy & Security
--  *Network-Projects Portfolio:* [SOHO Network Setup with Redundancy & Security](https://github.com/MkhithiAzureNet/Small-Office-Network)
+-  *Network-Projects Portfolio:* [github.com/MkhithiAzureNet/Networking-_Projects](https://github.com/MkhithiAzureNet/Networking-_Projects)
 - Network Toolkit Architect 
 [github.com/MkhithiAzureNet/Networking-_Projects](https://github.com/MkhithiAzureNet/Networking-_Projects)
 
