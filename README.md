@@ -5,15 +5,16 @@ mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 #### 🛠 Core Stack  
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
 - *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
-- Toolkit Architect
+- *Toolkit Architect:* Developer of automated network diagnostic tools
 
 #### 📜 Certifications  
+- Microsoft Azure Certified (AZ 900) 
 - CompTIA Network+ (CompTIA N+)
 - Cisco Networking Devices & Initial Configurations (Cisco Academy)
 - Cisco Cybersecurity (Cisco Academy)
 - Google Coursera Technical Fundementals (Coursera)
 - Google Coursera Command Line In Linux (Coursera)
-- Microsoft Certified: Azure Fundementals (AZ-900) To write 29-Aug-25
+
 
 ## 🛠️ Diagnostic Tools
 Developer of the following:
