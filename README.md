@@ -7,13 +7,19 @@ mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 - *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
 - *Toolkit Architect:* Developer of automated network diagnostic tools
 
-#### 📜 Certifications  
-- Microsoft Azure Certified (AZ 900) 
-- CompTIA Network+ (CompTIA N+)
-- Cisco Networking Devices & Initial Configurations (Cisco Academy)
-- Cisco Cybersecurity (Cisco Academy)
-- Google Coursera Technical Fundementals (Coursera)
-- Google Coursera Command Line In Linux (Coursera)
+---
+
+#### 📜 Certifications
+
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ900-blue?logo=microsoftazure&logoColor=white)](https://www.credly.com/badges)  
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges)
+
+- **Cisco Networking Devices & Initial Configurations** *(Cisco Academy)*
+- **Cisco Cybersecurity** *(Cisco Academy)*
+- **Google Coursera: Technical Support Fundamentals** *(Coursera)*
+- **Google Coursera: Command Line in Linux** *(Coursera)*
+
+> 🧠 These certifications reflect a strong foundation in cloud architecture, network troubleshooting, cybersecurity, and Linux command-line fluency — all essential for modern Azure administration and engineering roles.
 
 
 ## 🛠️ Diagnostic Tools
