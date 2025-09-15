@@ -12,10 +12,10 @@ mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 #### 📜 Certifications
 
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ900-blue?logo=microsoftazure&logoColor=white)](https://www.credly.com/badges)  
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges/e981d034-1867-454a-bef2-80170b0d9e61)
 
 - [Cisco Networking Devices & Initial Configurations](https://www.credly.com/badges/99372a8d-de68-478a-b86b-6f8a6547de2f) *(Cisco Academy)*
-- **Cisco Cybersecurity** *(Cisco Academy)*
+- [Cisco Cybersecurity](https://www.credly.com/badges/7c053862-58f0-4374-93ce-07cf338af9c2) *(Cisco Academy)*
 - **Google Coursera: Technical Support Fundamentals** *(Coursera)*
 - **Google Coursera: Command Line in Linux** *(Coursera)*
 
