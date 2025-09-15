@@ -11,7 +11,7 @@ mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 
 #### 📜 Certifications
 
-[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ900-blue?logo=microsoftazure&logoColor=white)](https://www.credly.com/badges)  
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ900-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/NhlanhlaMkhithi-7826/B8CDEB90FAC8C86?sharingId=5337675114BBC2C8)  
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges/e981d034-1867-454a-bef2-80170b0d9e61)
 
 - [Cisco Networking Devices & Initial Configurations](https://www.credly.com/badges/99372a8d-de68-478a-b86b-6f8a6547de2f) *(Cisco Academy)*
