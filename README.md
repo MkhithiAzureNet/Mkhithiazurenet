@@ -2,8 +2,8 @@
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 
-## 📬 Connect
-[LinkedIn](www.linkedin.com/in/nhlanhla-mkhithi-140095385)
+[LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
+
 
 #### 🛠 Core Stack  
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Microsoft Entra ID 
@@ -46,4 +46,4 @@ Developer of the following:
 - Network Toolkit Architect 
 [github.com/MkhithiAzureNet/Networking-_Projects](https://github.com/MkhithiAzureNet/Networking-_Projects)
 
-
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
