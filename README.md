@@ -1,8 +1,7 @@
 ### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist | Diagnostic Architect
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
-
-[LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
 
 
 #### 🛠 Core Stack  
