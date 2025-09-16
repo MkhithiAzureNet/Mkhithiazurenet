@@ -6,17 +6,24 @@ mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 [LinkedIn](www.linkedin.com/in/nhlanhla-mkhithi-140095385)
 
 #### 🛠 Core Stack  
-- *Cloud:* Azure IaaS/PaaS, ARM Templates, Terraform  
+- *Cloud:* Azure IaaS/PaaS, ARM Templates, Microsoft Entra ID 
 - *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
-- Toolkit Architect
+- *Toolkit Architect:* Developer of automated network diagnostic tools
 
-#### 📜 Certifications  
-- CompTIA Network+ (CompTIA N+)
-- Cisco Networking Devices & Initial Configurations (Cisco Academy)
-- Cisco Cybersecurity (Cisco Academy)
-- Google Coursera Technical Fundementals (Coursera)
-- Google Coursera Command Line In Linux (Coursera)
-- Microsoft Certified: Azure Fundementals (AZ-900) To write 29-Aug-25
+---
+
+#### 📜 Certifications
+
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ900-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/NhlanhlaMkhithi-7826/B8CDEB90FAC8C86?sharingId=5337675114BBC2C8)  
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges/e981d034-1867-454a-bef2-80170b0d9e61)
+
+- [Cisco Networking Devices & Initial Configurations](https://www.credly.com/badges/99372a8d-de68-478a-b86b-6f8a6547de2f) *(Cisco Academy)*
+- [Cisco Cybersecurity](https://www.credly.com/badges/7c053862-58f0-4374-93ce-07cf338af9c2) *(Cisco Academy)*
+- **Google Coursera: Technical Support Fundamentals** *(Coursera)*
+- **Google Coursera: Command Line in Linux** *(Coursera)*
+
+> 🧠 These certifications reflect a strong foundation in cloud architecture, network troubleshooting, cybersecurity, and Linux command-line fluency — all essential for modern Azure administration and engineering roles.
+
 
 ## 🛠️ Diagnostic Tools
 Developer of the following:
