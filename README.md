@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist | Diagnostic Architect
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
+
 
 #### 🛠 Core Stack  
 - *Cloud:* Azure IaaS/PaaS, ARM Templates, Microsoft Entra ID (P1&P2)
@@ -40,8 +42,7 @@ Developer of the following:
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)
 - SOHO Network Setup with Redundancy & Security
 -  *Network-Projects Portfolio:* [`SOHO_Network_Setup`](https://github.com/MkhithiAzureNet/Mkhithiazurenet/tree/main/Networking/SOHO_Network_Setup)
-
 - Network Toolkit Architect 
 [github.com/MkhithiAzureNet/Networking-_Projects](https://github.com/MkhithiAzureNet/Networking-_Projects)
 
-
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
