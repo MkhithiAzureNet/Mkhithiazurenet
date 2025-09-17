@@ -3,7 +3,7 @@
 mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
 
 #### 🛠 Core Stack  
-- *Cloud:* Azure IaaS/PaaS, ARM Templates, Microsoft Entra ID 
+- *Cloud:* Azure IaaS/PaaS, ARM Templates, Microsoft Entra ID (P1&P2)
 - *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
 - *Toolkit Architect:* Developer of automated network diagnostic tools
 
