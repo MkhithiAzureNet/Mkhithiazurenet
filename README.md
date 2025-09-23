@@ -38,7 +38,7 @@ Developer of the following:
 #### 💼 Experience Highlights  
 - *Freelance Cloud Consultant* (2022-Present)  
   - Migrated 3 on-prem workloads to Azure  
-  - Automated VM scaling for SMB clients  
+  - Automated VM scaling  
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)
 - SOHO Network Setup with Redundancy & Security
 -  *Network-Projects Portfolio:* [`SOHO_Network_Setup`](https://github.com/MkhithiAzureNet/Mkhithiazurenet/tree/main/Networking/SOHO_Network_Setup)
