@@ -1,12 +1,17 @@
-### 👋 Hi, I'm Nhlanhla Mkhithi | Azure & Networking Specialist | Diagnostic Architect
+### 👋 Hi, I'm Nhlanhla Mkhithi | Cloud/Network Engineer |
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
-mkhithiazuresa@gmail.com | 0735765831 | WhatsApp: 0833717102
+mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
 
 
-#### 🛠 Core Stack  
-- *Cloud:* Azure IaaS/PaaS, ARM Templates, Microsoft Entra ID (P1&P2)
-- *Networking:* CompTIA N+, Cisco CCNA, Azure VPN, NSGs  
+#### ⚒ Core Stack
+
+- **Cloud:** Microsoft Azure (IaaS/PaaS), Azure Resource Manager (ARM), Bicep, Microsoft Entra ID (P1/P2)
+- **Networking:** CompTIA Network+, Cisco CCNA fundamentals, Azure Virtual Networks, NSGs, VLAN segmentation, routing & subnetting
+- **Identity & Security:** RBAC, Conditional Access, MFA, Identity Governance, least privilege access
+- **Infrastructure as Code:** Bicep, ARM templates, modular deployments, reusable infrastructure design
+- **Tooling:** PowerShell, Git, GitHub, VS Code, network troubleshooting, documentation, automation scripting
+- **Lab Architecture:** Active Directory labs, GNS3 network simulations, hybrid identity and segmented network environments 
 - *Toolkit Architect:* Developer of automated network diagnostic tools
 
 ---
