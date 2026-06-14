@@ -4,7 +4,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
 
 
-#### ⚒ Core Stack
+####  Core Stack
 
 - **Cloud:** Microsoft Azure (IaaS/PaaS), Azure Resource Manager (ARM), Bicep, Microsoft Entra ID (P1/P2)
 - **Networking:** CompTIA Network+, Cisco CCNA fundamentals, Azure Virtual Networks, NSGs, VLAN segmentation, routing & subnetting
@@ -26,7 +26,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - **Google Coursera: Technical Support Fundamentals** *(Coursera)*
 - **Google Coursera: Command Line in Linux** *(Coursera)*
 
-> 🧠 These certifications reflect a strong foundation in cloud architecture, network troubleshooting, cybersecurity, and Linux command-line fluency — all essential for modern Azure administration and engineering roles.
+>  These certifications reflect a strong foundation in cloud architecture, network troubleshooting, cybersecurity, and Linux command-line fluency — all essential for modern Azure administration and engineering roles.
 
 
 ## 🛠️ Diagnostic Tools
@@ -40,7 +40,7 @@ Developer of the following:
 
 
 
-#### 💼 Experience Highlights  
+####  Experience Highlights  
 - *Freelance Cloud Consultant* (2022-Present)  
   - Migrated 3 on-prem workloads to Azure  
   - Automated VM scaling  
