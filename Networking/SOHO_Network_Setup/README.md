@@ -1,6 +1,6 @@
-# 🏠 SOHO Network Setup with Redundancy & Security  
+# SOHO Network Setup with Redundancy & Security  
 
-**Skills:** Azure · Networking · Cisco · Security
+**Skills:** Networking · Cisco · Security
 
 ---
 
