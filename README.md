@@ -1,13 +1,13 @@
 ### 👋 Hi, I'm Nhlanhla Mkhithi
 Cloud Infrastructure Engineer | Azure | Enterprise Networking | Security | Automation
-*📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
+📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
 
 
 ####  Core Stack
 
-- **Cloud**
+**Cloud**
 - Microsoft Azure
 - Virtual Networks
 - Azure Virtual Machines
@@ -18,7 +18,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - Bicep
 - Terraform
   
-- **Infrastructure & Networking**
+**Infrastructure & Networking**
 - Enterprise Networking
 - MikroTik
 - Cisco
@@ -29,8 +29,8 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - DNS
 - DHCP
 - TCP/IP
-  
-- **Identity & Security**
+
+**Identity & Security**
 - Microsoft Entra ID
 - RBAC
 - Conditional Access
@@ -39,7 +39,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - Least Privilege
 - Network Security
   
-- **Infrastructure as Code**
+**Infrastructure as Code**
 - Bicep
 - ARM Templates
 - Reusable Modules
@@ -48,7 +48,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - PowerShell
 - Azure CLI
   
-- **Monitoring & Operations**
+**Monitoring & Operations**
 - Grafana
 - Prometheus
 - Zabbix
@@ -56,14 +56,14 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - Portainer
 - Wireshark
   
-- **Systems**
+**Systems**
 - Windows Server
 - Linux
 - Microsoft 365
 - Hyper-V
 - Active Directory
 
-- **Toolkit Architect**
+**Toolkit Architect**
 - Developer of automated network diagnostic tools
 - Developer of asset register for company inventory
 
