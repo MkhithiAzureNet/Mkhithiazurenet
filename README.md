@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Nhlanhla Mkhithi | Cloud/Network Engineer |
+### 👋 Hi, I'm Nhlanhla Mkhithi
+Cloud Infrastructure Engineer | Azure | Enterprise Networking | Security | Automation
 *📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
@@ -6,13 +7,65 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 
 ####  Core Stack
 
-- **Cloud:** Microsoft Azure (IaaS/PaaS), Azure Resource Manager (ARM), Bicep, Microsoft Entra ID (P1/P2)
-- **Networking:** CompTIA Network+, Cisco CCNA fundamentals, Azure Virtual Networks, NSGs, VLAN segmentation, routing & subnetting
-- **Identity & Security:** RBAC, Conditional Access, MFA, Identity Governance, least privilege access
-- **Infrastructure as Code:** Bicep, ARM templates, modular deployments, reusable infrastructure design
-- **Tooling:** PowerShell, Git, GitHub, VS Code, network troubleshooting, documentation, automation scripting
-- **Lab Architecture:** Active Directory labs, GNS3 network simulations, hybrid identity and segmented network environments 
-- *Toolkit Architect:* Developer of automated network diagnostic tools
+- **Cloud**
+- Microsoft Azure
+- Virtual Networks
+- Azure Virtual Machines
+- Azure Storage
+- Network Security Groups
+- Azure Bastion
+- Azure Resource Manager
+- Bicep
+- Terraform
+  
+- **Infrastructure & Networking**
+- Enterprise Networking
+- MikroTik
+- Cisco
+- Ubiquiti
+- Routing & Switching
+- VLANs
+- VPN
+- DNS
+- DHCP
+- TCP/IP
+  
+- **Identity & Security**
+- Microsoft Entra ID
+- RBAC
+- Conditional Access
+- MFA
+- Identity Governance
+- Least Privilege
+- Network Security
+  
+- **Infrastructure as Code**
+- Bicep
+- ARM Templates
+- Reusable Modules
+- Git
+- GitHub
+- PowerShell
+- Azure CLI
+  
+- **Monitoring & Operations**
+- Grafana
+- Prometheus
+- Zabbix
+- Uptime Kuma
+- Portainer
+- Wireshark
+  
+- **Systems**
+- Windows Server
+- Linux
+- Microsoft 365
+- Hyper-V
+- Active Directory
+
+- **Toolkit Architect**
+- Developer of automated network diagnostic tools
+- Developer of asset register for company inventory
 
 ---
 
@@ -42,8 +95,7 @@ Developer of the following:
 
 ####  Experience Highlights  
 - *Freelance Cloud Consultant* (2022-Present)  
-  - Migrated 3 on-prem workloads to Azure  
-  - Automated VM scaling  
+  - Migrated a logistic company from on prem to azure [https://github.com/MkhithiAzureNet/warehousepro_azure_landing_zone]  
 - *Azure-Projects Portfolio:* [github.com/Mkhithiazurenet/Azure-Projects](https://github.com/Mkhithiazurenet/Azure-Projects)
 - SOHO Network Setup with Redundancy & Security
 -  *Network-Projects Portfolio:* [`SOHO_Network_Setup`](https://github.com/MkhithiAzureNet/Mkhithiazurenet/tree/main/Networking/SOHO_Network_Setup)
