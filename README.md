@@ -55,6 +55,21 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - Uptime Kuma
 - Portainer
 - Wireshark
+
+**Endpoint Management & Modern Workplace**
+- Microsoft Intune
+- Endpoint Manager
+- Device Compliance Policies
+- Configuration Profiles
+- Windows Autopilot
+- Application Deployment
+- Endpoint Security
+- Mobile Device Management (MDM)
+- Mobile Application Management (MAM)
+- Windows Update for Business
+- Microsoft Defender for Endpoint
+- Apple Business Manager
+- Android Enterprise
   
 **Systems**
 - Windows Server
