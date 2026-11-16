@@ -79,6 +79,8 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ900-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/NhlanhlaMkhithi-7826/B8CDEB90FAC8C86?sharingId=5337675114BBC2C8)  
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges/e981d034-1867-454a-bef2-80170b0d9e61)
 
+- Microsoft Applied Skills: Configure secure access to your workloads using Azure networking : https://learn.microsoft.com/api/credentials/share/en-us/NhlanhlaM-3889/D1CCF7313202FAF?sharingId=BDC010C5DFABC4A5
+
 - [Cisco Networking Devices & Initial Configurations](https://www.credly.com/badges/99372a8d-de68-478a-b86b-6f8a6547de2f) *(Cisco Academy)*
 - [Cisco Cybersecurity](https://www.credly.com/badges/7c053862-58f0-4374-93ce-07cf338af9c2) *(Cisco Academy)*
 - **Google Coursera: Technical Support Fundamentals** *(Coursera)*
