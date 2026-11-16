@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Nhlanhla Mkhithi
-Cloud Infrastructure Engineer | Azure | Enterprise Networking | Security | Automation
+Cloud Infrastructure Engineer | Enterprise Networking | Security | Automation
 📍 Johannesburg/Cape Town, South Africa | Open to Remote Roles*  
 mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nhlanhla-mkhithi-140095385/)
@@ -8,15 +8,8 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 ####  Core Stack
 
 **Cloud**
-- Microsoft Azure
-- Virtual Networks
-- Azure Virtual Machines
-- Azure Storage
-- Network Security Groups
-- Azure Bastion
-- Azure Resource Manager
-- Bicep
-- Terraform
+- Active Directory
+  
   
 **Infrastructure & Networking**
 - Enterprise Networking
@@ -25,26 +18,18 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - Ubiquiti
 - Routing & Switching
 - VLANs
-- VPN
-- DNS
-- DHCP
-- TCP/IP
 
 **Identity & Security**
 - Microsoft Entra ID
 - RBAC
-- Conditional Access
-- MFA
+- Access Policies
 - Identity Governance
 - Least Privilege
-- Network Security
   
 **Infrastructure as Code**
 - Bicep
-- ARM Templates
 - Reusable Modules
-- Git
-- GitHub
+- Terraform
 - PowerShell
 - Azure CLI
   
