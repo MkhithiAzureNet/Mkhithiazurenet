@@ -9,6 +9,10 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 
 **Cloud**
 - Active Directory
+- Azure Architectural Framework
+- IaC
+- Intune Administrator
+- 
   
   
 **Infrastructure & Networking**
