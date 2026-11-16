@@ -66,6 +66,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 **Toolkit Architect**
 - Developer of automated network diagnostic tools
 - Developer of asset register for company inventory
+- Developer of uptime Kuma monitoring
 
 ---
 
