@@ -12,7 +12,6 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 - Azure Architectural Framework
 - IaC
 - Intune Administrator
-- 
   
   
 **Infrastructure & Networking**
@@ -80,6 +79,7 @@ mkhithiazuresa@gmail.com | 0612169832 | WhatsApp: 0833717102
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white)](https://www.credly.com/badges/e981d034-1867-454a-bef2-80170b0d9e61)
 
 - Microsoft Applied Skills: Configure secure access to your workloads using Azure networking : https://learn.microsoft.com/api/credentials/share/en-us/NhlanhlaM-3889/D1CCF7313202FAF?sharingId=BDC010C5DFABC4A5
+- Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage : https://learn.microsoft.com/api/credentials/share/en-gb/NhlanhlaM-3889/3484240C88CAF646?sharingId=BDC010C5DFABC4A5
 
 - [Cisco Networking Devices & Initial Configurations](https://www.credly.com/badges/99372a8d-de68-478a-b86b-6f8a6547de2f) *(Cisco Academy)*
 - [Cisco Cybersecurity](https://www.credly.com/badges/7c053862-58f0-4374-93ce-07cf338af9c2) *(Cisco Academy)*
